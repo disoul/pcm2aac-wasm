@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "*.css": "postcss",
-    "avcodec.h": "c"
-  }
-}
